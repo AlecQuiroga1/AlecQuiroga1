@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlecQuiroga1
-- 👀 I’m interested in building an android application to help with following golf.
+- :golfing: I’m interested in building an android application to help with following golf.
 - 🌱 I’m currently learning the LibGDX library for game development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: https://www.linkedin.com/in/alec-quiroga-aaa59a20a/
 
 <!---
