@@ -2,7 +2,7 @@
 - :golfing: I’m interested in building an android application to help with following golf.
 - 🌱 I’m currently learning the LibGDX library for game development.
 - :ear_of_rice: I’m looking to collaborate on making a game using LibGDX.
-- 📫 How to reach me: https://www.linkedin.com/in/alec-quiroga-aaa59a20a/
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/alec-quiroga-aaa59a20a/)
 
 <!---
 AlecQuiroga1/AlecQuiroga1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
